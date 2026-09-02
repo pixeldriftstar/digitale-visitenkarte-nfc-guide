@@ -1,6 +1,5 @@
 # Schluss mit Papiervisitenkarten! Wie Sie mit digitalen Visitenkarten Ihren Networking-ROI verdoppeln
 
-
 Stellen Sie sich folgendes Szenario vor: Sie investieren viel Geld in das Ticket für eine exklusive Branchenmesse. Sie verbringen Tage damit, Ihr Verkaufsgespräch zu perfektionieren, reisen an und stehen drei Tage lang ununterbrochen auf den Beinen. Sie schütteln hunderte Hände, führen inspirierende Gespräche und kehren mit einem dicken Stapel gedruckter Papiervisitenkarten nach Hause zurück. Sie fühlen sich erfolgreich und sind überzeugt, dass Ihre Pipeline für das nächste Quartal prall gefüllt ist.
 
 Dann bricht der Montagmorgen an.
